@@ -219,6 +219,7 @@ outloop:;
           {
             flag=1;
             goto end;
+          }
           else
             flag=0;
         }
